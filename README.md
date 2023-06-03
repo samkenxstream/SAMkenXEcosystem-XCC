@@ -1,6 +1,6 @@
-# `SAMkenXEcosystem` configuration
+# `SAMkenXEcosystem` configurations
 
-Fast and feature-rich multi-network Ethereum client.
+Fast and feature-rich multi-chain network client.
 
 [» Download the latest release «](https://github.com/openethereum/openethereum/releases/latest)
 
