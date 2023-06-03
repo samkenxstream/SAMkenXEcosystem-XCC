@@ -1,4 +1,4 @@
-# OpenEthereum
+# `SAMkenXEcosystem` configuration
 
 Fast and feature-rich multi-network Ethereum client.
 
